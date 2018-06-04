@@ -38,6 +38,9 @@ python classifier.py
 
 to train the classifier.
 
+### Using Pretrained Model
+Just copy tampered-authentic-model, classifier.joblib.pkl and verify.py to your machine. 
+
 ## Usage
 
 To verify some image run 
