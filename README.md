@@ -18,7 +18,7 @@ TensorFlow
 For this work CASIA v2 was used. gn.py and gnt.py can be used to extract authentic and tampered patches from it.
 
 ### Training
-Copy all the files to your machine. In train.py you can specify path to your training and testing data. 'authentic' and 'tampered' directories with corresponding 64x64 image patches must be there. Run command
+Copy all the scripts (.py files) to your machine. In train.py you can specify path to your training and testing data. 'authentic' and 'tampered' directories with corresponding 64x64 image patches must be there. Run command
 
 ```
 python train.py x
